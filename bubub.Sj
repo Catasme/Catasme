@@ -1,4 +1,3 @@
-window.location.replace
 
 document.getElementById("loveIn").onclick = function() {
     if(fungsiAwal==0){
