@@ -13,8 +13,6 @@ document.getElementById("loveIn").onclick = function() {
   
   const box = document.getElementById('pergeseran');
   const directChildren = box.children.length;
-  console.log('Script ini dibuat oleh: www.feeldream.id');
-  console.log('Instagram: @rayyarrr');
   console.log('Total Slide: ', directChildren);
   totalPesan = directChildren;
   
